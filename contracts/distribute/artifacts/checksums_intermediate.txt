@@ -1,0 +1,1 @@
+3d3704d1311ae51acd64938c3ef9889b4f5f5d2afcfeb3dd7cbdd6a1bb9351dd  ./target/wasm32-unknown-unknown/release/distribute.wasm

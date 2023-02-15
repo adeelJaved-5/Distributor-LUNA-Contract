@@ -1,0 +1,32 @@
+{
+  "_global": {
+    "_base": {
+      "instantiation": {
+        "instantiateMsg": {
+          "arbiter": "terra1s628arrdq2nrkmvdj4l66zjy5z2r3flkfxswne",
+          "burn": "terra1sk06e3dyexuq4shw77y3dsv480xv42mq73anxu",
+          "development": "terra1xfc8qxul57g2y55pynynvc2d8603mg0259hc58",
+          "amount":"3"
+        }
+      }
+    }
+  },
+  "mainnet": {
+    "_connection": {
+      "chainID": "phoenix-1",
+      "URL": "https://phoenix-lcd.terra.dev"
+    }
+  },
+  "testnet": {
+    "_connection": {
+      "chainID": "pisco-1",
+      "URL": "https://pisco-lcd.terra.dev"
+    }
+  },
+  "localterra": {
+    "_connection": {
+      "chainID": "localterra",
+      "URL": "http://localhost:1317"
+    }
+  }
+}

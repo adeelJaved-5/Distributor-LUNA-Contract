@@ -1,0 +1,10 @@
+{
+  "testnet": {
+    "distribute": {
+      "codeId": "7208",
+      "contractAddresses": {
+        "default": "terra1q7ruj2yt2s3tyjgrmwvt3mjkrxvyxp68de98zkckz2dd0fjuqlkswqkqzq"
+      }
+    }
+  }
+}
